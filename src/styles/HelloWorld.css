@@ -1,0 +1,47 @@
+input {
+    background-color: #F9FAFB;
+    border: 1px solid #D1D5DB;
+    color: #111827;
+    font-size: 0.875rem;
+    border-radius: 0.375rem;
+    outline-color: #3B82F6;
+    outline-width: 2px;
+    margin-left: 10px;
+    width: 40%;
+    padding: 0.625rem;
+}
+
+input:focus {
+    outline-color: #3B82F6;
+    border-color: #3B82F6;
+}
+
+input {
+    background-color: #1F2937;
+    border-color: #4B5563;
+    color: #FFFFFF;
+}
+
+img {
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    background-color: #3B82F6;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    margin-left: 5px;
+  }
+  
+button:hover {
+    background-color: #1D4ED8;
+}
+
+.QueryComponents {
+    display: flex;
+    justify-content: center; 
+}
